@@ -11,8 +11,10 @@ To use just simply include the insultGenerator.js file in your html doc.
 
 <script type="text/javascript" src="js/insultGenerator.js"></script>
 
-To place an insult on a DOM element simply type below :
+To place an insult on a DOM element simply include the element you want the insult to appear on below :
 
+Example
+===============
 $('.insult').generateInsult();
 //Generates a random insult on DOM element with class insult.
 
