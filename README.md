@@ -25,5 +25,5 @@ $('#myDiv').generateInsult();
 //Generates a random insult on DOM element with id myDiv.
 
 
-This is something I whipped up overnight. Have fun. Insult people. Be the Don Rickles of your friends. But, in a more Shakespearean way :)
+This is something I whipped up overnight. Have fun. Contribute if you like. Insult people. Be the Don Rickles of your friends. But, in a more Shakespearean way :)
 
