@@ -15,6 +15,7 @@ To place an insult on a DOM element simply include the element you want the insu
 
 Example
 ===============
+``` javascript
 $('.insult').generateInsult();
 //Generates a random insult on DOM element with class insult.
 
@@ -23,7 +24,7 @@ $('.subHeading').generateInsult();
 
 $('#myDiv').generateInsult();
 //Generates a random insult on DOM element with id myDiv.
-
+```
 
 This is something I whipped up overnight. Have fun. Contribute if you like. Insult people. Be the Don Rickles of your friends. But, in a more Shakespearean way :)
 
