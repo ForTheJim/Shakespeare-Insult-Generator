@@ -5,7 +5,12 @@ A JS plugin that adds an insult from the great bard, William Shakespeare
 
 Instructions
 ============================
-*Note: jQuery is required*
+Before you can use the plugin, you must have jQuery included in your page, do this by inserting the following code in the `<head>` section of your HTML document
+
+``` html
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
+```
 
 To use just simply include the insultGenerator.js file in your html doc.
 
